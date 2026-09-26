@@ -1,0 +1,10 @@
+# Nilai rahasia perangkat: kunci bootstrap dan sandi AP. Hanya ada di laptop,
+# tidak pernah ikut git. Salin secrets.h.contoh menjadi secrets.h lalu isi.
+secrets.h
+
+# Hasil compile Arduino.
+build/
+*.bin
+*.elf
+*.map
+*.hex
