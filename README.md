@@ -25,7 +25,7 @@ Nama folder harus sama dengan nama `.ino` di dalamnya — itu aturan Arduino IDE
 
 `MQTT_URL` dikosongkan = MQTT mati, perangkat kembali berperilaku seperti 5.1.
 Detail topik, login, dan ACL ada di
-[`../iotmaxhub-all-source/MQTT.md`](../iotmaxhub-all-source/MQTT.md).
+[`../backend/docs/MQTT.md`](../backend/docs/MQTT.md).
 
 5.2-mqtt memakai 98% partisi bawaan (default 4 MB with spiffs). Masih muat dan
 OTA tetap jalan, tapi ruangnya tinggal sedikit — kalau nanti perlu tambahan
